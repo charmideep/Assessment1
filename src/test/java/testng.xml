@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.qa.tests.RegisterPage"/>
+      <class name="com.qa.tests.DataProvideLoginTest"/>
+      <class name="com.qa.tests.Verify_costTest"/>
+      <class name="com.qa.tests.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

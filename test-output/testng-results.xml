@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-26T05:07:36Z" name="Default suite" finished-at="2022-06-26T05:07:51Z" duration-ms="15290">
+    <groups>
+    </groups>
+    <test started-at="2022-06-26T05:07:36Z" name="Default test" finished-at="2022-06-26T05:07:51Z" duration-ms="15290">
+      <class name="com.qa.tests.Register">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.Register@38cee291]" started-at="2022-06-26T01:07:36Z" name="setup" finished-at="2022-06-26T01:07:45Z" duration-ms="8632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="click_on_reg()[pri:0, instance:com.qa.tests.Register@38cee291]" started-at="2022-06-26T01:07:45Z" name="click_on_reg" finished-at="2022-06-26T01:07:51Z" duration-ms="5899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_reg -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.tests.Register@38cee291]" started-at="2022-06-26T01:07:51Z" name="teardown" finished-at="2022-06-26T01:07:51Z" duration-ms="732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.tests.Register -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
